@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="editTextChanging">you are changing text</string>
+    <string name="name">Name</string>
+    <string name="editTextName">Write your name</string>
+
+</resources>
